@@ -1,0 +1,22 @@
+Array size: 100000
+=====================================
+Results (fastest to slowest):
+=====================================
+Merge sort (Optimized): 13 ms
+Shell sort: 19 ms
+Quick sort: 19 ms
+Merge sort: 22 ms
+Java's sort (Arrays.sort): 27 ms
+Insertion sort: 3506 ms
+Bubble sort: 21216 ms
+
+Array size: 100000
+=====================================
+Results (fastest to slowest):
+=====================================
+Quick sort: 15 ms
+Merge sort: 19 ms
+Shell sort: 20 ms
+Java's sort (Arrays.sort): 29 ms
+Insertion sort: 2855 ms
+Bubble sort: 15849 ms
